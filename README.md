@@ -17,12 +17,4 @@ Here are some ideas to get you started:
 
 
 ## Socials
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-[1]: http://www.twitter.com/claretnnamocha
-[2]: http://www.facebook.com/claretnnamocha
+<img src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" width="40"> <img src="https://www.teahub.io/photos/full/11-115962_facebook-logo-png-transparent-background-facebook-png.png" width="40">
