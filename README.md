@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ## Socials
-<img src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" width="40"> <img src="https://www.teahub.io/photos/full/11-115962_facebook-logo-png-transparent-background-facebook-png.png" width="40">
+<a href="https://twitter.com/claretnnamocha"><img src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" width="40"></a> <a href="https://facebook.com/claretnnamocha"><img src="https://www.teahub.io/photos/full/11-115962_facebook-logo-png-transparent-background-facebook-png.png" width="40"></a>
