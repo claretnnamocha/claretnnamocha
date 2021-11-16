@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on new and cutting edge technologies
 - 🤔 I’m looking for help with any opportunity to improve myself
 - 💬 Ask me about backend/fintech/blockchain stuff
-- 📫 How to reach me: claretnnamocha@gmail.com
+- 📫 How to reach me: devclareo@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have the special ability to watch TV and code at the same time 😄
 
