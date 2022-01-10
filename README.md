@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about backend/fintech/blockchain stuff
 - 📫 How to reach me: devclareo@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have the special ability to watch TV and code at the same time 😄
+- ⚡ Fun fact: I love to watch TV and code at the same time 😄
 
 
 ## Socials
