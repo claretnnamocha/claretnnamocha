@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with the "Buy Me a Coffee" link integrated:
-
----
-
 # Hi, I'm Claret👋
 
 ## 🚀 About Me
