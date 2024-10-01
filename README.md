@@ -40,12 +40,6 @@ Here are some of the technologies I work with:
 - **Advanced Typescript** for large-scale applications
 - **Google Cloud** tools for scalable backend architectures
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Core Banking: A Blueprint for Modern Financial Systems]([https://yourblog.com/zkp-intro](https://dev.to/claretnnamocha/building-core-banking-a-blueprint-for-modern-financial-systems-introduction-4d13))
-<!-- BLOG-POST-LIST:END -->
-
 ## ☕ Support Me
 
 If you enjoy my work or find my projects helpful, consider buying me a coffee!
