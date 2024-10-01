@@ -1,20 +1,62 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Here’s the updated `README.md` with the "Buy Me a Coffee" link integrated:
 
-<!--
-**claretnnamocha/claretnnamocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
+# Hi, I'm Claret👋
 
-- 🔭 I’m currently working on financial & blockchain solutions
-- 🌱 I’m currently learning better software structure and architecture
-- 👯 I’m looking to collaborate on new and cutting edge technologies
-- 🤔 I’m looking for help with any opportunity to improve myself
-- 💬 Ask me about backend/fintech/blockchain stuff
-- 📫 How to reach me: devclareo@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love to watch TV and code at the same time 😄
+## 🚀 About Me
 
+I'm a **Software Engineer** with over 5 years of experience specializing in custom software, mobile app development, financial solutions, and blockchain technologies. I have a passion for building robust, scalable applications and improving user experiences across different platforms.
 
-## Socials
-<a href="https://twitter.com/claretnnamocha"><img src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" width="40"></a> <a href="https://facebook.com/claretnnamocha"><img src="https://www.teahub.io/photos/full/11-115962_facebook-logo-png-transparent-background-facebook-png.png" width="40"></a>
+- 🌍 Based in Nigeria
+- 💼 Previously worked with **Aya** (Techstars '23), and **WAYA PayChat**
+- 🎤 Co-organizer for **Google Developer Groups (GDG) Owerri**, leading community events and driving tech education
+
+## 🛠 Tech Stack
+
+Here are some of the technologies I work with:
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+## 🌱 I’m Currently Learning
+
+- **Zero-Knowledge Proofs** and **Scalability Solutions** in blockchain
+- **Advanced Typescript** for large-scale applications
+- **Google Cloud** tools for scalable backend architectures
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Core Banking: A Blueprint for Modern Financial Systems]([https://yourblog.com/zkp-intro](https://dev.to/claretnnamocha/building-core-banking-a-blueprint-for-modern-financial-systems-introduction-4d13))
+<!-- BLOG-POST-LIST:END -->
+
+## ☕ Support Me
+
+If you enjoy my work or find my projects helpful, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/claretnnamocha)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/claretnnamocha)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/claretnnamocha)
+
+### ⚡ Fun Fact
+
+I’m currently learning to play the piano! 🎹
