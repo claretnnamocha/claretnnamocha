@@ -41,12 +41,13 @@ Here are some of the technologies I work with:
 - **Zero-Knowledge Proofs** and **Scalability Solutions** in blockchain
 - **Advanced Typescript** for large-scale applications
 - **Google Cloud** tools for scalable backend architectures
-
+<!-- 
 ## ☕ Support Me
 
 If you enjoy my work or find my projects helpful, consider buying me a coffee!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/claretnnamocha)
+-->
 
 ## 🔗 Connect with Me
 
